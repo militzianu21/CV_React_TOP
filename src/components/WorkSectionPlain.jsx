@@ -1,6 +1,6 @@
 import React from "react";
 import Button from "./Button";
-import PanelPlain from "./panelPlain";
+import PanelPlain from "./PanelPlain";
 const names = {
   institution: "companyName",
   title: "title",
